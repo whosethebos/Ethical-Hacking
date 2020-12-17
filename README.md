@@ -28,4 +28,4 @@ After the completion of course, there is a capstone project which has 3 sub topi
 * Cross Side Scripting
 
 ## Certificate of Completion
-![certificate](Certificate.png)
+![certificate](Certificate.jpg)
